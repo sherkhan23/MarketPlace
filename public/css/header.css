@@ -1,0 +1,24 @@
+#nav-link-sidebar:hover{
+    background-color: #0069d9;
+}
+link:hover{
+    border: none;
+}
+
+#sidebar{
+    border-radius: 40px 0 0 30px;
+}
+#header-2>{
+
+}
+#header-2>li:hover{
+
+}
+#header-2>li>a{
+    color: black;
+    margin-left: 10px;
+}
+#header-2>li>a:hover{
+    background-color: orange;
+    margin-left: 10px;
+}
